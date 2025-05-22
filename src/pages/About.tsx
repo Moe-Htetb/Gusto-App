@@ -1,6 +1,6 @@
 function About() {
   return (
-    <article className="grid grid-cols-2 gap-6">
+    <article className="grid grid-cols-1 lg:grid-cols-2 gap-6">
       <div>
         <img
           src="https://www.compass-group.co.uk/media/ekrjmcro/chai_robert_kennedy_and_chef_in_kitchen_04.jpg?format=webP"
